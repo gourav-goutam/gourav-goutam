@@ -10,4 +10,4 @@
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(png-2x-dark)/html5.png" width="36" height="36" alt="HTML5" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(png-3x-dark)/html5.png" width="36" height="36" alt="HTML5" /></a> &nbsp;
