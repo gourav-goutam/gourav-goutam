@@ -10,7 +10,7 @@
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/html5.svg?token=files_preview" width="50" height="50" alt="HTML5" /></a> &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/html5.svg" width="50" height="50" alt="HTML5" /></a> &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/js.svg?token=GHSAT0AAAAAACBDSBMXZ7ZGRE4VA2WSID2UZBRVOKQ" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/css.svg?token=GHSAT0AAAAAACBDSBMXZ7ZGRE4VA2WSID2UZBRVOKQ" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/sass.svg?token=GHSAT0AAAAAACBDSBMXZ7ZGRE4VA2WSID2UZBRVOKQ" width="36" height="36" alt="Sass" /></a>
