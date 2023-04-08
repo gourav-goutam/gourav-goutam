@@ -11,6 +11,6 @@
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/html5.svg?token=GHSAT0AAAAAACBDSBMXPR7VT6DGKKLFDLOUZBPZCEA" width="50" height="50" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/gourav-goutam/icons-collection/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/html5.svg?token=GHSAT0AAAAAACBDSBMXZ7ZGRE4VA2WSID2UZBRVOKQ" width="50" height="50" alt="HTML5" />
 </a> &nbsp;
 </p>
