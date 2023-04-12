@@ -12,20 +12,21 @@
 #### Backend
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/java.svg" width="60" height="60" alt="Java" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/kotlin.svg" width="60" height="60" alt="Kotlin" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="./icons/java.svg" width="60" height="60" alt="Java" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./icons/kotlin.svg" width="60" height="60" alt="Kotlin" /></a>
 </p>
 
 #### Frontend
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/html5.svg" width="60" height="60" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/js.svg" width="60" height="60" alt="JavaScript" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/css.svg" width="60" height="60" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/sass.svg" width="60" height="60" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/tailwind.svg" width="60" height="60" alt="TailwindCSS" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/reactjs.svg" width="60" height="60" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/redux.svg" width="60" height="60" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/webpack.svg" width="60" height="60" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/gourav-goutam/icons-collection/blob/main/Tech%20Stack%20Icons%20%26%20Design%20Stack%20Icons%20(svg-1.5x-dark)/babel.svg" width="60" height="60" alt="Babel" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./icons/html5.svg" width="60" height="60" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./icons/js.svg" width="60" height="60" alt="JavaScript" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./icons/css.svg" width="60" height="60" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./icons/sass.svg" width="60" height="60" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="./icons/tailwind.svg" width="60" height="60" alt="TailwindCSS" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/reactjs.svg" width="60" height="60" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="./icons/redux.svg" width="60" height="60" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./icons/webpack.svg" width="60" height="60" alt="Webpack" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="./icons/babel.svg" width="60" height="60" alt="Babel" /></a>
 </p>
+ Thanks
