@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="./icons/java.svg" width="60" height="60" alt="Java" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./icons/kotlin.svg" width="60" height="60" alt="Kotlin" /></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./icons/spring.svg" width="60" height="60" alt="SpringBoot" /></a>
 </p>
 
 #### Frontend
