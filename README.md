@@ -17,6 +17,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="./icons/spring.svg" width="60" height="60" alt="SpringBoot" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./icons/mongodb.svg" width="60" height="60" alt="MongoDB" /></a>
 <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="./icons/oracle.svg" width="60" height="60" alt="Oracle" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./icons/docker.svg" width="60" height="60" alt="Docker" /></a>
 </p>
 
 #### Frontend
