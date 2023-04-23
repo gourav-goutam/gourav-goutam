@@ -34,4 +34,4 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="./icons/webpack.svg" width="60" height="60" alt="Webpack" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="./icons/babel.svg" width="60" height="60" alt="Babel" /></a>
 </p>
- Thanks
+ Thanks !!!
