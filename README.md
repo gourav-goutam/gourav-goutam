@@ -6,6 +6,7 @@
 - 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://gourav-goutam.netlify.com/'>Portfolio</a>
 - 🧠 Currently learning Advance React topics & Kotlin
 - 🤝 I'm open to collaborating on interesting projects
+  <br/>
 
 ### Skills
 
