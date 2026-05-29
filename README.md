@@ -3,7 +3,7 @@
 ## I am Fullstack Developer
 
 - 🌍 I'm based in Bangalore, India
-- 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://gourav-goutam.netlify.com/'>Portfolio</a>
+- 🖥️ See my portfolio at <a target="_blank" rel="noreferrer" href='https://gourav-goutam.netlify.app'>Portfolio</a>
 - 🧠 Currently learning Advance React topics & Kotlin
 - 🤝 I'm open to collaborating on interesting projects
   <br/>
